@@ -4,5 +4,6 @@ This uses AWS and ReacJS.
 
 # Technologies Used
 
+Brew
 Git and github
 SSH
