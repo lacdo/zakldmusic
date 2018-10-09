@@ -1,0 +1,10 @@
+vewion: 0.1
+
+phases:
+  build:
+    commands:
+      -echo Nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - assets/*
