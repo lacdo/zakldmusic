@@ -8,3 +8,6 @@ artifacts:
   files:
     - index.html
     - assets/*
+    - assets/css/*
+    - assets/fonts/*
+    - assets/js/*
